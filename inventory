@@ -12,8 +12,8 @@ web1.man.example.com
 db.man.example.com
 
 [london:children]
-london-web
-london-db
+london_web
+london_db
 
 [manchester:children]
 manchester_web

@@ -1,6 +1,7 @@
 [london_web]
 web1.lon.example.com
 web2.lon.example.com
+web3.lon.example.com
 
 [london_db]
 db.lon.example.com

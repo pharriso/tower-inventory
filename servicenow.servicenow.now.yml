@@ -4,3 +4,6 @@ keyed_groups:
   - key: sn_sys_class_name | lower
     prefix: ''
     separator: ''
+  - key: u_patch_window | lower
+    prefix: ''
+    separator: ''

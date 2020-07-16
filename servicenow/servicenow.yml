@@ -1,0 +1,9 @@
+plugin: servicenow.servicenow.now
+instance: dev94721.service-now.com
+username: admin
+password: Redhat123
+keyed_groups:
+  - key: sn_sys_class_name | lower
+    prefix: ''
+    separator: ''
+

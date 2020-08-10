@@ -19,5 +19,5 @@ ovirt_hostname_preference:
 - name
 - fqdn
 ovirt_query_filter:
-  search: 'comment=pharriso'
+  search: 'comment=admin'
   case_sensitive: no
